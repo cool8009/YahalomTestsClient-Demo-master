@@ -1,0 +1,62 @@
+{
+  "tests": [
+    {
+      "TestId": 1,
+      "Into": "test test",
+      "DateCreated": "25.3.22",
+      "MinimumToPass": 55,
+      "Title": "test title",
+      "FieldOfStudyId": 1,
+      "CompanyId": 1
+    },
+    {
+      "TestId": 3,
+      "Into": "test test 2",
+      "DateCreated": "25.10.22",
+      "MinimumToPass": 55,
+      "Title": "test title 2",
+      "FieldOfStudyId": 1,
+      "CompanyId": 1
+    },
+    {
+      "TestId": 2,
+      "Into": "test test 3",
+      "DateCreated": "25.2.22",
+      "MinimumToPass": 55,
+      "Title": "test title 3",
+      "FieldOfStudyId": 1,
+      "CompanyId": 1
+    }
+  ],
+  "questions": [
+    {
+      "QuestionId": 1,
+      "Title": "some question",
+      "Content": "question",
+      "IsSingleChoice": true,
+      "TestId": 1
+    },
+    {
+      "QuestionId": 2,
+      "Title": "some question",
+      "Content": "question",
+      "IsSingleChoice": true,
+      "TestId": 1
+    },
+    {
+      "QuestionId": 3,
+      "Title": "some question",
+      "Content": "question",
+      "IsSingleChoice": true,
+      "TestId": 2
+    },
+    {
+      "QuestionId": 4,
+      "Title": "some question",
+      "Content": "question",
+      "IsSingleChoice": false,
+      "TestId": 3
+    }
+  ]
+  
+}
