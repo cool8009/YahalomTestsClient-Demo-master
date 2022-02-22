@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import QuestionService from "../services/questionService";
 import QuestionsTable from "./QuestionsTable";
 import QuestionForm from "./QuestionForm";
 

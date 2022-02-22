@@ -37,6 +37,11 @@
   }
 }
 
+body {
+  background: linear-gradient(to left top, blue, white) fixed;
+
+}
+
 .questions {
   display: flex;
   justify-content: space-between;
