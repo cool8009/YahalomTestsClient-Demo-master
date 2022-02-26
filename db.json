@@ -66,10 +66,22 @@
       "QuestionId": 1
     },
     {
-      "Id": 1,
+      "Id": 2,
       "Content": "No",
       "IsTrue": false,
       "QuestionId": 1
+    },
+    {
+      "Id": 1,
+      "Content": "kama",
+      "IsTrue": true,
+      "QuestionId": 2
+    },
+    {
+      "Id": 2,
+      "Content": "od",
+      "IsTrue": false,
+      "QuestionId": 2
     }
   ]
 }

@@ -46,6 +46,20 @@ body {
   border-radius: 5px;
 }
 
+.test-container {
+  max-width: 500px;
+  margin: 30px auto;
+  overflow: auto;
+  min-height: 300px;
+  border: 1px solid steelblue;
+  padding: 30px;
+  border-radius: 5px;
+  background: #f4f4f4;
+  
+  padding: 40px 50px;
+
+}
+
 .homeContainer {
   background-color: white;
   max-width: 500px;

@@ -3,8 +3,13 @@ import React from 'react'
 const AnswerInstance = ({answer}) => {
   return (
     <div>
-        <p>{answer.Id}</p>
-        <p>{answer.Content}</p>
+        <input 
+            type='checkbox'
+            value={answer.Content}
+            
+            />
+            <label>{answer.Content}</label>
+            
     </div>
   )
 }
